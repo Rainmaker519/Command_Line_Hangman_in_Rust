@@ -1,2 +1,3 @@
 # to change language of repo from Javascript to Python
     *.Makefile linguist-language=Rust
+    *.d linguist-language=Rust
