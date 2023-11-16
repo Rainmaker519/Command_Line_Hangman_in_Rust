@@ -1,2 +1,2 @@
 # Hangman_Rust_CmdApp
-A basic command line application to play hangman written in Rust.
+A basic command line implementation of the classic game, Hangman, written in Rust!
